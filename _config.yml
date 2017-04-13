@@ -1,4 +1,4 @@
-  	name: Anish Timila, Intermideate Soccer Player
+name: Anish Timila, Intermideate Soccer Player
 	markdown: kramdown
 	permalink: /blog/:year/:month/:day/:title
 
