@@ -1705,10 +1705,6 @@
 			display: block;
 			width: 100%;
 		}
-		
-		.img-circle {
-    			border-radius: 50%;
-		}
 
 		.image.avatar48 {
 			width: 48px;
@@ -1746,6 +1742,10 @@
 				margin: 0 auto;
 				width: auto;
 			}
+		
+		.img-circle {
+    			border-radius: 50%;
+		}
 
 /* List */
 
